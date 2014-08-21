@@ -11,7 +11,6 @@ repositories {
     jcenter()
 }
 
-
 dependencies {
     providedCompile 'javax.servlet:servlet-api:2.5'
     compile 'org.springframework:spring-webmvc:3.2.2.RELEASE'
